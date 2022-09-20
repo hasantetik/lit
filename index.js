@@ -1,0 +1,10 @@
+import "./simple-greeting";
+import "./my-page";
+import "./my-element";
+import "./todo-view";
+import "./selamLit";
+import "./OrnekCompenent";
+import "./deneme";
+import "./deneme2";
+import "./deneme3";
+import "./deneme4";
